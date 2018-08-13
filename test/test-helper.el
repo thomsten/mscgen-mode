@@ -1,8 +1,8 @@
 ;;; test-helper.el --- Helper functions to test mscgen-mode  -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2017 Thomas
+;; Copyright (C) 2018 Thomas Stenersen
 
-;; Author: Thomas <stenersen.thomas@gmail.com>
+;; Author: Thomas Stenersen <stenersen.thomas@gmail.com>
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

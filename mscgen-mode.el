@@ -1,8 +1,8 @@
 ;;; mscgen-mode.el --- Major mode for editing mscgen sequence diagrams
 
-;; Copyright (C) 2018 Thomas
+;; Copyright (C) 2018 Thomas Stenersen
 
-;; Author: Thomas <stenersen.thomas@gmail.com>
+;; Author: Thomas Stenersen <stenersen.thomas@gmail.com>
 ;; Version: 0.1
 
 ;; This file is not part of GNU Emacs.

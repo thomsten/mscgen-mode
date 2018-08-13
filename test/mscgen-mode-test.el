@@ -1,8 +1,8 @@
 ;;; mscgen-mode-test.el --- Tests for mscgen-mode.el
 
-;; Copyright (C) 2013 Thomas
+;; Copyright (C) 2018 Thomas Stenersen
 
-;; Author: Thomas <stenersen.thomas@gmail.com>
+;; Author: Thomas Stenersen <stenersen.thomas@gmail.com>
 
 ;; This file is not part of GNU Emacs.
 

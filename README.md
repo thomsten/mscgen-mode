@@ -19,7 +19,7 @@ Yes, please do! See [CONTRIBUTING][] for guidelines.
 
 ## License
 
-See [COPYING][]. Copyright (c) 2018 Thomas.
+See [COPYING][]. Copyright (c) 2018 Thomas Stenersen.
 
 
 [CONTRIBUTING]: ./CONTRIBUTING.md
